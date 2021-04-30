@@ -30,7 +30,7 @@ Pretty simple, isn't it?!
 
 ### Example 1: Stock Keeping Unit
 
-The first example is concerned with improving the inventory of a company. 
+The [first example](https://bit.ly/3vwxiKq) is concerned with improving the inventory of a company. 
 Imagine that you're working as a supply and logistics manager, and want to organize your stock and delivery more efficiently. 
 
 One possibility would be to analyze the sku along two dimensions:
@@ -45,4 +45,4 @@ The volatility of something may be measured with  coefficient of variation (CV),
 In today's competitive world, it is essential to understand customer behavior and categorize them based on their demographics and buying behavior. At the same time, the groups themselves should be clearly differentiated from each other in terms of these characteristics and buying behavior according to the motto: "Customers are unique and sometimes similar".
 The aim of the segmentation is to address and serve the respective individual customers in a way that best matches their specific group and characteristics. 
 
-In this example we explore the concept of customer segmentation based on recency, frequency and monetary (RFM) model. The data set contains three variables: *customer_id, purchase_amount* and *date_of_purchase*, and 51k observations. 
+In this [example](https://bit.ly/3u6gQQA) we explore the concept of customer segmentation based on recency, frequency and monetary (RFM) model. The data set contains three variables: *customer_id, purchase_amount* and *date_of_purchase*, and 51k observations. 
